@@ -2,4 +2,4 @@ testing hg-git specifically bookmarking and branching workflow
 
 testing my new laptop hg and hg-git settings
 
-testing hg-git at work
+testing hg-git at work, using existing ssh key made with openssh/git
