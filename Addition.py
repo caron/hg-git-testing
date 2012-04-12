@@ -1,2 +1,2 @@
 # radical changes!
-print "one plus one is two"
+print "%i plus %i is %i" % (1,1,2)
