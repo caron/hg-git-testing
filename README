@@ -4,6 +4,9 @@ testing my new laptop hg and hg-git settings
 
 testing hg-git at work, using existing ssh key made with openssh/git (didn't work!)
 
+
 changing my mercurial.ini to use git's ssh.exe, (didn't work!) have to stick with pageant. :(
 
 testing the hg-git bookmarking workflow again, i don't use it enough to remember
+
+hg-git testing, commit broken?
